@@ -1,7 +1,16 @@
 body {
-  background-color: #eba04d;
+  background-color: #b99979;
+  text-align: center;
 }
 
 h1 {
-  color: #983307;
+  color: #792e10;
+}
+a {
+  color: white;
+}
+
+footer {
+  font-size: 12px;
+  font-family: "Courier New", Courier, monospace;
 }
